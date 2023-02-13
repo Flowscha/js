@@ -30,6 +30,8 @@ button {
     justify-content: center;
     flex-direction: column;
     align-content: center;
+    justify-self: center;
     border-radius: 10px;
     flex-wrap: wrap;
+    align-self: center;
 }

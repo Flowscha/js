@@ -1,0 +1,35 @@
+body {
+    background-color: lightseagreen;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 100px;
+}
+
+button {
+    color: white;
+    background-color: lightslategray;
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+}
+
+#result {
+    background-color: antiquewhite;
+    width: 600px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    border-radius: 10px;
+    flex-wrap: wrap;
+}
